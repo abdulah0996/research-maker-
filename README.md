@@ -28,7 +28,7 @@ Contact form submissions are saved to MongoDB. Visitors receive an on-screen ref
 
 Deploy to a Node host with outbound Atlas access and a managed HTTPS endpoint. Use `npm ci && npm run build` in the build stage and `npm start` to serve the production build. Install dev dependencies in the build stage. The runtime needs the application files, `dist/` and production dependencies.
 
-Configure `MONGODB_URI`, `SITE_URL=https://researchmaker.co.uk`, and the host-provided `PORT`. Set `HOST=0.0.0.0` if your environment file contains a loopback override. Set `TRUST_PROXY_HOPS` only when the known proxy topology requires it for client IP rate limiting. Keep the origin behind that proxy and use a same-origin API. Configure the domain and HTTPS in the hosting provider.
+Configure `SITE_URL=https://researchmaker.co.uk` and the host-provided `PORT`. Configure `MONGODB_URI` to enable the CMS, contact-form storage and database-backed content; without it, the public built-in catalogue remains available while database endpoints return `503`. Set `HOST=0.0.0.0` if your environment file contains a loopback override. Set `TRUST_PROXY_HOPS` only when the known proxy topology requires it for client IP rate limiting. Keep the origin behind that proxy and use a same-origin API. Configure the domain and HTTPS in the hosting provider.
 
 The initial catalogue contains 13 services and 15 tutoring categories. Articles and reviews can be published from the dashboard. The legal pages contain marked draft copy for business and legal review. Confirm the business contact details, approve the policy copy in `src/content.ts` and publish authentic content before launch. Test click-to-chat with the real number, check `/sitemap.xml`, and verify the owner can sign in over HTTPS.
 

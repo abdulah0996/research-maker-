@@ -23,7 +23,6 @@ const base = siteUrl.origin
 const loopback = ['localhost', '127.0.0.1', '[::1]'].includes(siteUrl.hostname)
 if (production && siteUrl.protocol !== 'https:' && !loopback) throw new Error('An HTTPS SITE_URL is required in production.')
 const port = Number(process.env.PORT ?? 5173)
-if (production && !process.env.MONGODB_URI) throw new Error('MONGODB_URI is required in production.')
 if (process.env.WHATSAPP_NUMBER && !/^\+?[1-9]\d{7,14}$/.test(process.env.WHATSAPP_NUMBER)) throw new Error('Invalid WHATSAPP_NUMBER.')
 if (process.env.MONGODB_URI) {
   await mongoose.connect(process.env.MONGODB_URI, { serverSelectionTimeoutMS: 10000 })
