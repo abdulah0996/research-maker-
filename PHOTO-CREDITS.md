@@ -1,0 +1,181 @@
+# Photography credits
+
+The assets below were resized and converted to WebP. Sources use the [Pexels licence](https://www.pexels.com/license/), [Unsplash licence](https://unsplash.com/license), or the Wikimedia licence specified for the individual file. Existing editorial asset credits are in the README.
+
+- **it-computer-science-java-programming** ? A developer working at a laptop with coffee nearby. [Source](https://www.pexels.com/photo/1181244/).
+- **it-computer-science-c-and-c-plus-plus** ? Source code open in a dark editor. [Source](https://www.pexels.com/photo/270348/).
+- **it-computer-science-c-sharp** ? Code displayed on a blue-lit monitor. [Source](https://www.pexels.com/photo/546819/).
+- **it-computer-science-javascript** ? Hands typing while code is open on a laptop. [Source](https://www.pexels.com/photo/574071/).
+- **it-computer-science-typescript** ? Source code on a dark screen. [Source](https://images.unsplash.com/photo-1551033406-611cf9a28f67).
+- **it-computer-science-html-css** ? Laptop behind a window with soft reflections. [Source](https://www.pexels.com/photo/1181270/).
+- **it-computer-science-react-js** ? Developer seated in front of a workstation. [Source](https://www.pexels.com/photo/3861958/).
+- **it-computer-science-node-js** ? Laptop screen with a terminal open in a dark room. [Source](https://www.pexels.com/photo/943096/).
+- **it-computer-science-mern-stack-development** ? Laptop displaying a code editor on a desk. [Source](https://images.unsplash.com/photo-1484417894907-623942c8ee29).
+- **it-computer-science-mobile-app-development** ? A laptop, phone and other mobile devices on a table. [Source](https://www.pexels.com/photo/1181298/).
+- **it-computer-science-database-management** ? Rows of server racks in a data centre. [Source](https://www.pexels.com/photo/325229/).
+- **it-computer-science-mongodb** ? A person working in front of blue-lit server racks. [Source](https://www.pexels.com/photo/1181354/).
+- **it-computer-science-data-structures-algorithms** ? Several coloured lines of source code. [Source](https://images.unsplash.com/photo-1542831371-29b0f74f9713).
+- **it-computer-science-object-oriented-programming** ? Two people looking at a laptop displaying a code editor. [Source](https://www.pexels.com/photo/1181263/).
+- **it-computer-science-software-engineering** ? People collaborating in a computer lab. [Source](https://images.unsplash.com/photo-1531482615713-2afd69097998).
+- **it-computer-science-artificial-intelligence** ? A person behind a display of digital data. [Source](https://www.pexels.com/photo/3861969/).
+- **it-computer-science-machine-learning** ? An illuminated mesh of interconnected nodes. [Source](https://www.pexels.com/photo/373543/).
+- **it-computer-science-data-science** ? Multiple screens displaying data and charts. [Source](https://www.pexels.com/photo/577585/).
+- **it-computer-science-cybersecurity** ? A monitor with security monitoring displays. [Source](https://www.pexels.com/photo/5380642/).
+- **it-computer-science-cloud-computing** ? Illuminated server racks in a data centre. [Source](https://images.unsplash.com/photo-1558494949-ef010cbdcc31).
+- **it-computer-science-computer-networks** ? Network cabling connected to a switch. [Source](https://www.pexels.com/photo/442150/).
+- **it-computer-science-operating-systems** ? A Sun Ultra 20 computer workstation. Credit Flickr user Jiri Brozovsky. [Source](https://commons.wikimedia.org/wiki/File:Sun_Ultra_20_Workstation_(2005).jpeg) ? [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **it-computer-science-computer-architecture** ? A computer motherboard with its connectors visible. Credit Marcin Wieclaw (pcsite.co.uk). [Source](https://commons.wikimedia.org/wiki/File:Computer-motherboard.jpg) ? [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **it-computer-science-git-github** ? Laptop with developer community stickers. [Source](https://www.pexels.com/photo/1181253/).
+- **it-computer-science-software-testing** ? Several monitors running software at one workstation. [Source](https://www.pexels.com/photo/3862132/).
+- **it-computer-science-university-it-coursework-guidance** ? A laptop showing code beside a small plant. [Source](https://images.unsplash.com/photo-1517694712202-14dd9538aa97).
+- **medical-health-sciences-physiology** ? Patient monitoring equipment beside a hospital bed. [Source](https://www.pexels.com/photo/3844581/).
+- **medical-health-sciences-biochemistry** ? Laboratory glassware filled with blue liquid. [Source](https://www.pexels.com/photo/2280549/).
+- **medical-health-sciences-pathology** ? Pathologists working with microscopes. Credit Linda Bartlett (Photographer). [Source](https://commons.wikimedia.org/wiki/File:Pathologists_looking_into_microscopes_(1).jpg) ? Public domain.
+- **medical-health-sciences-microbiology** ? A microscope examining a specimen. [Source](https://www.pexels.com/photo/256262/).
+- **medical-health-sciences-immunology** ? Researcher looking through a laboratory microscope. [Source](https://www.pexels.com/photo/4031523/).
+- **medical-health-sciences-pharmacy** ? A pharmacist preparing a product in a pharmacy. [Source](https://www.pexels.com/photo/4033148/).
+- **medical-health-sciences-public-health** ? Medical professional at a consulting desk. [Source](https://www.pexels.com/photo/8376277/).
+- **medical-health-sciences-epidemiology** ? Graphs and notes being reviewed on a desk. [Source](https://www.pexels.com/photo/669610/).
+- **medical-health-sciences-biomedical-sciences** ? Gloved hands adjusting a laboratory microscope. [Source](https://www.pexels.com/photo/3938022/).
+- **medical-health-sciences-clinical-research-fundamentals** ? Clinical staff working around an operating table. [Source](https://www.pexels.com/photo/3844582/).
+- **law-llb-contract-law** ? Hands reviewing and writing on a document. [Source](https://www.pexels.com/photo/5668869/).
+- **law-llb-criminal-law** ? A judge?s gavel on a desk. [Source](https://www.pexels.com/photo/5668473/).
+- **law-llb-constitutional-law** ? A civic building with a columned fa?ade. [Source](https://www.pexels.com/photo/256490/).
+- **law-llb-tort-law** ? A wooden gavel and sound block. [Source](https://www.pexels.com/photo/6077326/).
+- **law-llb-equity-and-trusts** ? Balance scales on a desk. [Source](https://www.pexels.com/photo/5669602/).
+- **law-llb-public-law** ? A group of legal professionals talking. [Source](https://www.pexels.com/photo/4427621/).
+- **law-llb-company-law** ? Legal professionals reviewing documents in an office. [Source](https://www.pexels.com/photo/4427545/).
+- **law-llb-commercial-law** ? A business professional adjusting a suit jacket. [Source](https://images.unsplash.com/photo-1507679799987-c73779587ccf).
+- **law-llb-human-rights-law** ? Brass scales of justice. [Source](https://www.pexels.com/photo/6077797/).
+- **law-llb-legal-writing-and-referencing** ? A bookplate from the Cincinnati Law Library. Credit Edwin Davis French. [Source](https://commons.wikimedia.org/wiki/File:Cincinnati_Law_Library_Rufus_King_Fund_bookplate_(1903)_by_Edwin_Davis_French.jpg) ? Public domain.
+- **engineering-civil-engineering** ? Construction team on a large worksite. [Source](https://images.unsplash.com/photo-1541888946425-d81bb19240f5).
+- **engineering-mechanical-engineering** ? Sparks coming from a metalworking tool. [Source](https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122).
+- **engineering-electrical-engineering** ? A technician working with an electronic circuit board. [Source](https://www.pexels.com/photo/3825581/).
+- **engineering-electronics** ? Close-up of an electronic circuit board. [Source](https://images.unsplash.com/photo-1518770660439-4636190af475).
+- **engineering-chemical-engineering** ? A technician working with industrial equipment. [Source](https://images.unsplash.com/photo-1581092921461-eab62e97a780).
+- **engineering-structural-engineering** ? Workers on a building frame at a construction site. [Source](https://images.unsplash.com/photo-1504307651254-35680f356dfd).
+- **engineering-engineering-design** ? Engineering students working with a machine. [Source](https://images.unsplash.com/photo-1581092160607-ee22621dd758).
+- **engineering-engineering-software-guidance** ? A person operating equipment in a workshop. [Source](https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0).
+- **mathematics-statistics-general-mathematics** ? A person writing on a classroom chalkboard. [Source](https://www.pexels.com/photo/6238037/).
+- **mathematics-statistics-algebra** ? A learner in front of a board filled with equations. [Source](https://www.pexels.com/photo/5212358/).
+- **mathematics-statistics-geometry** ? A notebook with sketches of geometric shapes. [Source](https://www.pexels.com/photo/196644/).
+- **mathematics-statistics-trigonometry** ? An instructor beside a chalkboard and geometric models. [Source](https://www.pexels.com/photo/8471970/).
+- **mathematics-statistics-calculus** ? A person writing mathematical notation on glass. [Source](https://www.pexels.com/photo/3862130/).
+- **mathematics-statistics-linear-algebra** ? A team considering diagrams and notes on a whiteboard. [Source](https://images.unsplash.com/photo-1552664730-d307ca884978).
+- **mathematics-statistics-differential-equations** ? A historical classroom photograph with a teacher at the blackboard. Credit AnonymousUnknown author. [Source](https://commons.wikimedia.org/wiki/File:Teacher_at_blackboard_(1924).jpg) ? Public domain.
+- **mathematics-statistics-probability** ? A student working at a desk in front of a board. [Source](https://www.pexels.com/photo/4144101/).
+- **mathematics-statistics-statistics** ? Two colleagues reviewing a page of figures. [Source](https://www.pexels.com/photo/7693225/).
+- **mathematics-statistics-applied-mathematics** ? People working through charts and notes at a table. [Source](https://www.pexels.com/photo/3184287/).
+- **mathematics-statistics-quantitative-methods** ? Hands writing calculations on paper. [Source](https://images.unsplash.com/photo-1450101499163-c8848c66ca85).
+- **physical-natural-sciences-physics** ? A colourful nebula photographed in space. [Source](https://images.unsplash.com/photo-1462331940025-496dfbfc7564).
+- **physical-natural-sciences-biology** ? A researcher examining a green plant in a laboratory. [Source](https://www.pexels.com/photo/2280551/).
+- **physical-natural-sciences-environmental-science** ? Sunlight through a wooded landscape. [Source](https://images.unsplash.com/photo-1441974231531-c6227db76b6e).
+- **physical-natural-sciences-earth-sciences** ? Mountain slopes and a lake in a glacial landscape. [Source](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b).
+- **physical-natural-sciences-biotechnology** ? Gloved hands handling a sample beside laboratory equipment. [Source](https://www.pexels.com/photo/2280571/).
+- **physical-natural-sciences-genetics** ? A researcher examining an image on a laboratory screen. [Source](https://www.pexels.com/photo/4031521/).
+- **physical-natural-sciences-molecular-biology** ? Hands holding a molecular model. [Source](https://www.pexels.com/photo/3825527/).
+- **business-management-business-studies** ? A group discussing ideas around a meeting table. [Source](https://www.pexels.com/photo/3184291/).
+- **business-management-business-administration** ? A team meeting at an office table. [Source](https://www.pexels.com/photo/3184339/).
+- **business-management-marketing** ? Colleagues reviewing material at a desk. [Source](https://www.pexels.com/photo/3184360/).
+- **business-management-human-resource-management** ? A line of colleagues celebrating together. [Source](https://www.pexels.com/photo/3184432/).
+- **business-management-operations-management** ? Colleagues working around a table with laptops. [Source](https://www.pexels.com/photo/3184325/).
+- **business-management-project-management** ? Overhead view of a project meeting. [Source](https://www.pexels.com/photo/3183197/).
+- **business-management-entrepreneurship** ? A group of colleagues looking at a shared laptop. [Source](https://www.pexels.com/photo/3182812/).
+- **business-management-business-analytics** ? Charts and laptops spread across a worktable. [Source](https://www.pexels.com/photo/3184639/).
+- **business-management-strategic-management** ? Overhead view of a team discussing work across a table. [Source](https://www.pexels.com/photo/3184306/).
+- **accounting-finance-economics-financial-accounting** ? A person sorting financial paperwork and using a calculator. [Source](https://images.unsplash.com/photo-1554224155-6726b3ff858f).
+- **accounting-finance-economics-management-accounting** ? A calculator beside a set of account statements. [Source](https://images.unsplash.com/photo-1554224154-26032ffc0d07).
+- **accounting-finance-economics-corporate-finance** ? Graphs and a laptop on a desk. [Source](https://www.pexels.com/photo/669619/).
+- **accounting-finance-economics-financial-management** ? Printed financial charts next to a laptop and pencils. [Source](https://www.pexels.com/photo/669622/).
+- **accounting-finance-economics-microeconomics** ? Price charts and a magnifying glass on a desk. [Source](https://www.pexels.com/photo/6801648/).
+- **accounting-finance-economics-macroeconomics** ? A market display showing stocks and prices. [Source](https://www.pexels.com/photo/210607/).
+- **accounting-finance-economics-econometrics** ? A person marking printed graphs beside a laptop. [Source](https://www.pexels.com/photo/669615/).
+- **accounting-finance-economics-investment-fundamentals** ? A financial chart displaying market price movements. [Source](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3).
+- **accounting-finance-economics-business-finance** ? A person checking figures on a phone next to a laptop. [Source](https://www.pexels.com/photo/6801874/).
+- **humanities-social-sciences-history** ? Ancient stone columns at an archaeological site. [Source](https://www.pexels.com/photo/4031527/).
+- **humanities-social-sciences-geography** ? An aerial view of a river winding through a wooded landscape. [Source](https://www.pexels.com/photo/1834403/).
+- **humanities-social-sciences-political-science** ? The Rijksmuseum building in Amsterdam. Credit Kerkhof123. [Source](https://commons.wikimedia.org/wiki/File:Rijksmuseum_2024.jpg) ? [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **humanities-social-sciences-international-relations** ? A large audience seated in a conference venue. [Source](https://images.unsplash.com/photo-1523580494863-6f3031224c94).
+- **humanities-social-sciences-sociology** ? A group of people standing shoulder to shoulder. [Source](https://www.pexels.com/photo/3184398/).
+- **humanities-social-sciences-anthropology** ? An outdoor classroom for Maasai learners in Tanzania. Credit Noel Feans. [Source](https://commons.wikimedia.org/wiki/File:Open_air_classroom_for_Maasai_children_in_Tanzania.jpg) ? [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **humanities-social-sciences-philosophy** ? A room lined with bookshelves. [Source](https://www.pexels.com/photo/256541/).
+- **humanities-social-sciences-psychology** ? A person holding a model of a human brain. [Source](https://www.pexels.com/photo/3825586/).
+- **humanities-social-sciences-education** ? A teacher and learners working in a classroom. [Source](https://www.pexels.com/photo/5212345/).
+- **humanities-social-sciences-social-policy** ? A group seated together looking out over a landscape. [Source](https://images.unsplash.com/photo-1529156069898-49953e39b3ac).
+- **humanities-social-sciences-criminology** ? A person reading and taking notes at a desk. [Source](https://www.pexels.com/photo/210990/).
+- **english-literature-languages-english-language** ? Wooden letter tiles arranged in a word game. [Source](https://www.pexels.com/photo/256417/).
+- **english-literature-languages-english-literature** ? A reader selecting a novel from a shelf. [Source](https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0).
+- **english-literature-languages-grammar** ? A pen on an open ruled notebook. [Source](https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3).
+- **english-literature-languages-academic-english** ? A stack of academic books. [Source](https://images.unsplash.com/photo-1497633762265-9d179a990aa6).
+- **english-literature-languages-creative-writing** ? An open laptop and a printed manuscript. [Source](https://images.unsplash.com/photo-1504691342899-4d92b50853e1).
+- **english-literature-languages-communication-skills** ? A person speaking on a phone beside a laptop. [Source](https://www.pexels.com/photo/3769021/).
+- **english-literature-languages-french** ? A learner at a desk taking an online lesson. [Source](https://www.pexels.com/photo/4145197/).
+- **english-literature-languages-german** ? A tutor speaking to a learner on a video call. [Source](https://www.pexels.com/photo/4145196/).
+- **english-literature-languages-spanish** ? A learner watching a lesson on a desktop screen. [Source](https://www.pexels.com/photo/4145192/).
+- **english-literature-languages-arabic** ? A learner writing notes beside a computer. [Source](https://www.pexels.com/photo/4145193/).
+- **arts-media-design-media-studies** ? An editing timeline open on a monitor. [Source](https://www.pexels.com/photo/257904/).
+- **arts-media-design-mass-communication** ? A digital cinema camera on a tripod. Credit -Roge-. [Source](https://commons.wikimedia.org/wiki/File:Red_EPIC_camera.jpg) ? [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).
+- **arts-media-design-art-history** ? Students making artwork around a table. [Source](https://www.pexels.com/photo/4778666/).
+- **arts-media-design-digital-media** ? A desktop monitor showing a digital content layout. [Source](https://www.pexels.com/photo/1779487/).
+- **arts-media-design-design-principles** ? A monitor displaying an arrangement of visual design work. [Source](https://www.pexels.com/photo/1029757/).
+- **school-college-subjects-primary-education** ? An adult supporting a young learner at a desk. [Source](https://www.pexels.com/photo/4145347/).
+- **school-college-subjects-secondary-school-subjects** ? A teacher guiding learners at a classroom table. [Source](https://www.pexels.com/photo/5212329/).
+- **school-college-subjects-gcse** ? A student writing notes during a lesson. [Source](https://www.pexels.com/photo/4144096/).
+- **school-college-subjects-igcse** ? A student studying at a desk with headphones. [Source](https://www.pexels.com/photo/4144144/).
+- **school-college-subjects-a-level** ? A learner using a laptop at home. [Source](https://www.pexels.com/photo/5905700/).
+- **school-college-subjects-as-level** ? Students working together in a library. [Source](https://www.pexels.com/photo/5940841/).
+- **school-college-subjects-international-baccalaureate** ? A learner attending a video lesson from their desk. [Source](https://www.pexels.com/photo/4144222/).
+- **school-college-subjects-foundation-programmes** ? A group of graduates tossing their caps. [Source](https://images.unsplash.com/photo-1541339907198-e08756dedf3f).
+- **test-exam-preparation-ielts** ? A learner joining an online lesson from a desk. [Source](https://www.pexels.com/photo/4145191/).
+- **test-exam-preparation-pte** ? A learner facing a tutor on a video call. [Source](https://www.pexels.com/photo/4145153/).
+- **test-exam-preparation-toefl** ? Overhead view of a desk set up for an online lesson. [Source](https://www.pexels.com/photo/4145190/).
+- **test-exam-preparation-gcse-preparation** ? A student writing practice answers in a notebook. [Source](https://images.unsplash.com/photo-1560785496-3c9d27877182).
+- **test-exam-preparation-a-level-preparation** ? An open book beside a cup and a pair of glasses. [Source](https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c).
+- **test-exam-preparation-university-entrance-preparation** ? A teacher discussing an exercise with a class. [Source](https://www.pexels.com/photo/5212340/).
+- **test-exam-preparation-academic-skills-preparation** ? A magnifying glass beside open reading materials. [Source](https://www.pexels.com/photo/5668882/).
+- **research-methods-data-analysis-research-methodology** ? Printed research charts and notes laid out for review. [Source](https://www.pexels.com/photo/7688460/).
+- **research-methods-data-analysis-qualitative-research** ? A group reviewing a document at a shared desk. [Source](https://www.pexels.com/photo/3183127/).
+- **research-methods-data-analysis-quantitative-research** ? Laptops and paperwork arranged for a work session. [Source](https://www.pexels.com/photo/3183150/).
+- **research-methods-data-analysis-r** ? A close-up of structured data on a screen. [Source](https://www.pexels.com/photo/3861976/).
+- **research-methods-data-analysis-python-for-data-analysis** ? Coloured code displayed on a monitor. [Source](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb).
+- **research-methods-data-analysis-excel** ? A laptop and stationery on a white desk. [Source](https://www.pexels.com/photo/3184450/).
+- **research-methods-data-analysis-power-bi** ? A screen showing an interactive reporting dashboard. [Source](https://images.unsplash.com/photo-1560472354-b33ff0c44a43).
+- **research-methods-data-analysis-tableau** ? Multiple monitors set up for data work. [Source](https://www.pexels.com/photo/3861972/).
+- **research-methods-data-analysis-academic-research-techniques** ? A student working through equations beside a whiteboard. [Source](https://www.pexels.com/photo/3768126/).
+- **professional-career-skills-microsoft-office** ? A person typing at a desk with a laptop and notes. [Source](https://www.pexels.com/photo/4065876/).
+- **professional-career-skills-advanced-excel** ? A phone and desk tools at a workstation. [Source](https://www.pexels.com/photo/3183198/).
+- **professional-career-skills-presentation-skills** ? A presenter addressing a seated audience. [Source](https://www.pexels.com/photo/3184317/).
+- **professional-career-skills-professional-communication** ? Colleagues placing their hands together during a meeting. [Source](https://www.pexels.com/photo/3184418/).
+- **professional-career-skills-cv-and-interview-preparation** ? A person handing a document to someone across a table. [Source](https://www.pexels.com/photo/3760067/).
+- **professional-career-skills-digital-skills** ? A laptop and headphones on a work surface. [Source](https://www.pexels.com/photo/459654/).
+- **professional-career-skills-professional-certification-preparation** ? A training session in a room with a presenter and screen. [Source](https://images.unsplash.com/photo-1524178232363-1fb2b075b655).
+- **home-intro** ? Students discussing work around a laptop. [Source](https://images.unsplash.com/photo-1522202176988-66273c2fd55f).
+- **home-guidance** ? A person working at a laptop in a bright workspace. [Source](https://www.pexels.com/photo/3184611/).
+- **about** ? A group of learners collaborating around a shared desk. [Source](https://images.unsplash.com/photo-1530099486328-e021101a494a).
+
+## Academic Tutoring directory
+
+- **directory-it-computer-science** ? A developer working with several monitors. [Source](https://www.pexels.com/photo/1181676/).
+- **directory-medical-health-sciences** ? A hybrid operating theatre with clinical equipment. Credit Pfree2014. [Source](https://commons.wikimedia.org/wiki/File:Hybrid_operating_theatre_gemelli_rome.jpg) ? [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **directory-law-llb** ? A set of scales and a gavel beside legal books. [Source](https://www.pexels.com/photo/5669619/).
+- **directory-engineering** ? People reviewing technical work at a shared table. [Source](https://www.pexels.com/photo/3861960/).
+- **directory-mathematics-statistics** ? A student studying in front of a chalkboard filled with maths. [Source](https://www.pexels.com/photo/6256065/).
+- **directory-physical-natural-sciences** ? A close-up of a plant branch with small buds. [Source](https://www.pexels.com/photo/2280575/).
+- **directory-business-management** ? A group of colleagues talking together. [Source](https://www.pexels.com/photo/3183196/).
+- **directory-accounting-finance-economics** ? Coins spilling from a glass savings jar. [Source](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad).
+- **directory-humanities-social-sciences** ? The Earth seen from orbit with city lights visible. [Source](https://images.unsplash.com/photo-1451187580459-43490279c0fa).
+- **directory-english-literature-languages** ? An open book inside a room lined with shelves. [Source](https://images.unsplash.com/photo-1532012197267-da84d127e765).
+- **directory-arts-media-design** ? A filmmaker operating a handheld camera rig. [Source](https://www.pexels.com/photo/3379937/).
+- **directory-school-college-subjects** ? A teacher holding books beside a classroom chalkboard. [Source](https://www.pexels.com/photo/5905483/).
+- **directory-test-exam-preparation** ? A student reading at a classroom desk. [Source](https://www.pexels.com/photo/5427647/).
+- **directory-research-methods-data-analysis** ? An overhead view of colleagues reviewing material around a table. [Source](https://www.pexels.com/photo/3182773/).
+- **directory-professional-career-skills** ? Colleagues putting their hands together above a worktable. [Source](https://www.pexels.com/photo/3184423/).
+
+## Homepage hero
+
+The four hero photographs are available under the [Unsplash License](https://unsplash.com/license).
+
+- `computing.webp` — [Compagnons](https://unsplash.com/photos/woman-working-on-a-laptop-with-code-on-screen-Zi0GmYPm88M)
+- `health.webp` — [National Cancer Institute](https://unsplash.com/photos/man-looking-at-microscope-rHfsPolwIgk)
+- `law.webp` — [Zoshua Colah](https://unsplash.com/photos/a-person-reads-in-a-beautiful-old-library-A9-d6WckclQ)
+- `research.webp` — [Julio Lopez](https://unsplash.com/photos/a-young-woman-studying-and-writing-notes-at-a-desk-Juj-Mi2b0DA)

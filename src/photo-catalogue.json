@@ -1,0 +1,329 @@
+{
+  "topics": {
+    "it-computer-science": {
+      "python-programming": [
+        "/images/editorial/it-project-mentoring-and-code-review.webp",
+        "Source code on a laptop screen"
+      ],
+      "java-programming": "A developer working at a laptop with coffee nearby",
+      "c-and-c-plus-plus": "Source code open in a dark editor",
+      "c-sharp": "Code displayed on a blue-lit monitor",
+      "javascript": "Hands typing while code is open on a laptop",
+      "typescript": "Source code on a dark screen",
+      "html-css": "Laptop behind a window with soft reflections",
+      "react-js": "Developer seated in front of a workstation",
+      "node-js": "Laptop screen with a terminal open in a dark room",
+      "mern-stack-development": "Laptop displaying a code editor on a desk",
+      "web-development": [
+        "/images/editorial/code.webp",
+        "Source code open on a monitor"
+      ],
+      "mobile-app-development": "A laptop, phone and other mobile devices on a table",
+      "database-management": "Rows of server racks in a data centre",
+      "sql": [
+        "/images/editorial/charts.webp",
+        "A plotted graph and measuring tools on a desk"
+      ],
+      "mongodb": "A person working in front of blue-lit server racks",
+      "data-structures-algorithms": "Several coloured lines of source code",
+      "object-oriented-programming": "Two people looking at a laptop displaying a code editor",
+      "software-engineering": "People collaborating in a computer lab",
+      "artificial-intelligence": "A person behind a display of digital data",
+      "machine-learning": "An illuminated mesh of interconnected nodes",
+      "data-science": "Multiple screens displaying data and charts",
+      "cybersecurity": "A monitor with security monitoring displays",
+      "cloud-computing": "Illuminated server racks in a data centre",
+      "computer-networks": "Network cabling connected to a switch",
+      "operating-systems": "A Sun Ultra 20 computer workstation",
+      "computer-architecture": "A computer motherboard with its connectors visible",
+      "git-github": "Laptop with developer community stickers",
+      "software-testing": "Several monitors running software at one workstation",
+      "university-it-coursework-guidance": "A laptop showing code beside a small plant"
+    },
+    "medical-health-sciences": {
+      "medicine-mbbs": [
+        "/images/editorial/topic-medicine.webp",
+        "Hospital equipment inside an operating theatre"
+      ],
+      "anatomy": [
+        "/images/editorial/topic-anatomy.webp",
+        "An anatomical model of the human heart"
+      ],
+      "physiology": "Patient monitoring equipment beside a hospital bed",
+      "biochemistry": "Laboratory glassware filled with blue liquid",
+      "pathology": "Pathologists working with microscopes",
+      "pharmacology": [
+        "/images/editorial/topic-pharmacology.webp",
+        "An assortment of tablets and capsules"
+      ],
+      "microbiology": "A microscope examining a specimen",
+      "immunology": "Researcher looking through a laboratory microscope",
+      "nursing": [
+        "/images/editorial/topic-nursing.webp",
+        "One person holding another person?s hand"
+      ],
+      "dentistry": [
+        "/images/editorial/topic-dentistry.webp",
+        "A dentist examining dental scans"
+      ],
+      "pharmacy": "A pharmacist preparing a product in a pharmacy",
+      "public-health": "Medical professional at a consulting desk",
+      "epidemiology": "Graphs and notes being reviewed on a desk",
+      "biomedical-sciences": "Gloved hands adjusting a laboratory microscope",
+      "clinical-research-fundamentals": "Clinical staff working around an operating table"
+    },
+    "law-llb": {
+      "contract-law": "Hands reviewing and writing on a document",
+      "criminal-law": "A judge?s gavel on a desk",
+      "constitutional-law": "A civic building with a columned fa?ade",
+      "tort-law": "A wooden gavel and sound block",
+      "equity-and-trusts": "Balance scales on a desk",
+      "land-law": [
+        "/images/editorial/architecture.webp",
+        "Glass office buildings viewed from street level"
+      ],
+      "public-law": "A group of legal professionals talking",
+      "company-law": "Legal professionals reviewing documents in an office",
+      "commercial-law": "A business professional adjusting a suit jacket",
+      "international-law": [
+        "/images/editorial/maps.webp",
+        "A detailed world map"
+      ],
+      "human-rights-law": "Brass scales of justice",
+      "legal-research": [
+        "/images/editorial/legal-research-support.webp",
+        "A statue of Lady Justice holding scales"
+      ],
+      "legal-writing-and-referencing": "A bookplate from the Cincinnati Law Library"
+    },
+    "engineering": {
+      "civil-engineering": "Construction team on a large worksite",
+      "mechanical-engineering": "Sparks coming from a metalworking tool",
+      "electrical-engineering": "A technician working with an electronic circuit board",
+      "electronics": "Close-up of an electronic circuit board",
+      "chemical-engineering": "A technician working with industrial equipment",
+      "structural-engineering": "Workers on a building frame at a construction site",
+      "engineering-mathematics": [
+        "/images/editorial/building.webp",
+        "An angular modern building with intersecting planes"
+      ],
+      "cad-fundamentals": [
+        "/images/editorial/technical.webp",
+        "A person drafting technical drawings by hand"
+      ],
+      "engineering-design": "Engineering students working with a machine",
+      "engineering-software-guidance": "A person operating equipment in a workshop"
+    },
+    "mathematics-statistics": {
+      "general-mathematics": "A person writing on a classroom chalkboard",
+      "algebra": "A learner in front of a board filled with equations",
+      "geometry": "A notebook with sketches of geometric shapes",
+      "trigonometry": "An instructor beside a chalkboard and geometric models",
+      "calculus": "A person writing mathematical notation on glass",
+      "linear-algebra": "A team considering diagrams and notes on a whiteboard",
+      "differential-equations": "A historical classroom photograph with a teacher at the blackboard",
+      "probability": "A student working at a desk in front of a board",
+      "statistics": "Two colleagues reviewing a page of figures",
+      "applied-mathematics": "People working through charts and notes at a table",
+      "quantitative-methods": "Hands writing calculations on paper"
+    },
+    "physical-natural-sciences": {
+      "physics": "A colourful nebula photographed in space",
+      "chemistry": [
+        "/images/editorial/academic-research-support.webp",
+        "Glass laboratory flasks arranged on a worktop"
+      ],
+      "biology": "A researcher examining a green plant in a laboratory",
+      "environmental-science": "Sunlight through a wooded landscape",
+      "earth-sciences": "Mountain slopes and a lake in a glacial landscape",
+      "biotechnology": "Gloved hands handling a sample beside laboratory equipment",
+      "genetics": "A researcher examining an image on a laboratory screen",
+      "molecular-biology": "Hands holding a molecular model"
+    },
+    "business-management": {
+      "business-studies": "A group discussing ideas around a meeting table",
+      "business-administration": "A team meeting at an office table",
+      "marketing": "Colleagues reviewing material at a desk",
+      "human-resource-management": "A line of colleagues celebrating together",
+      "operations-management": "Colleagues working around a table with laptops",
+      "project-management": "Overhead view of a project meeting",
+      "entrepreneurship": "A group of colleagues looking at a shared laptop",
+      "business-analytics": "Charts and laptops spread across a worktable",
+      "strategic-management": "Overhead view of a team discussing work across a table"
+    },
+    "accounting-finance-economics": {
+      "financial-accounting": "A person sorting financial paperwork and using a calculator",
+      "management-accounting": "A calculator beside a set of account statements",
+      "corporate-finance": "Graphs and a laptop on a desk",
+      "financial-management": "Printed financial charts next to a laptop and pencils",
+      "microeconomics": "Price charts and a magnifying glass on a desk",
+      "macroeconomics": "A market display showing stocks and prices",
+      "econometrics": "A person marking printed graphs beside a laptop",
+      "investment-fundamentals": "A financial chart displaying market price movements",
+      "business-finance": "A person checking figures on a phone next to a laptop"
+    },
+    "humanities-social-sciences": {
+      "history": "Ancient stone columns at an archaeological site",
+      "geography": "An aerial view of a river winding through a wooded landscape",
+      "political-science": "The Rijksmuseum building in Amsterdam",
+      "international-relations": "A large audience seated in a conference venue",
+      "sociology": "A group of people standing shoulder to shoulder",
+      "anthropology": "An outdoor classroom for Maasai learners in Tanzania",
+      "philosophy": "A room lined with bookshelves",
+      "psychology": "A person holding a model of a human brain",
+      "education": "A teacher and learners working in a classroom",
+      "social-policy": "A group seated together looking out over a landscape",
+      "criminology": "A person reading and taking notes at a desk"
+    },
+    "english-literature-languages": {
+      "english-language": "Wooden letter tiles arranged in a word game",
+      "english-literature": "A reader selecting a novel from a shelf",
+      "grammar": "A pen on an open ruled notebook",
+      "academic-english": "A stack of academic books",
+      "creative-writing": "An open laptop and a printed manuscript",
+      "communication-skills": "A person speaking on a phone beside a laptop",
+      "french": "A learner at a desk taking an online lesson",
+      "german": "A tutor speaking to a learner on a video call",
+      "spanish": "A learner watching a lesson on a desktop screen",
+      "arabic": "A learner writing notes beside a computer"
+    },
+    "arts-media-design": {
+      "media-studies": "An editing timeline open on a monitor",
+      "mass-communication": "A digital cinema camera on a tripod",
+      "journalism": [
+        "/images/editorial/journalism.webp",
+        "A reader holding an open newspaper"
+      ],
+      "graphic-design-theory": [
+        "/images/editorial/graphic-design-theory.webp",
+        "Graphic design tools on a desk"
+      ],
+      "art-history": "Students making artwork around a table",
+      "digital-media": "A desktop monitor showing a digital content layout",
+      "film-studies": [
+        "/images/editorial/film-studies.webp",
+        "A clapperboard on an outdoor film set"
+      ],
+      "design-principles": "A monitor displaying an arrangement of visual design work"
+    },
+    "school-college-subjects": {
+      "primary-education": "An adult supporting a young learner at a desk",
+      "secondary-school-subjects": "A teacher guiding learners at a classroom table",
+      "gcse": "A student writing notes during a lesson",
+      "igcse": "A student studying at a desk with headphones",
+      "a-level": "A learner using a laptop at home",
+      "as-level": "Students working together in a library",
+      "international-baccalaureate": "A learner attending a video lesson from their desk",
+      "foundation-programmes": "A group of graduates tossing their caps"
+    },
+    "test-exam-preparation": {
+      "ielts": "A learner joining an online lesson from a desk",
+      "pte": "A learner facing a tutor on a video call",
+      "toefl": "Overhead view of a desk set up for an online lesson",
+      "gcse-preparation": "A student writing practice answers in a notebook",
+      "a-level-preparation": "An open book beside a cup and a pair of glasses",
+      "university-entrance-preparation": "A teacher discussing an exercise with a class",
+      "academic-skills-preparation": "A magnifying glass beside open reading materials"
+    },
+    "research-methods-data-analysis": {
+      "research-methodology": "Printed research charts and notes laid out for review",
+      "qualitative-research": "A group reviewing a document at a shared desk",
+      "quantitative-research": "Laptops and paperwork arranged for a work session",
+      "spss": [
+        "/images/editorial/data-analysis-and-statistical-support.webp",
+        "Data visualisations on a screen"
+      ],
+      "r": "A close-up of structured data on a screen",
+      "python-for-data-analysis": "Coloured code displayed on a monitor",
+      "excel": "A laptop and stationery on a white desk",
+      "power-bi": "A screen showing an interactive reporting dashboard",
+      "tableau": "Multiple monitors set up for data work",
+      "academic-research-techniques": "A student working through equations beside a whiteboard"
+    },
+    "professional-career-skills": {
+      "microsoft-office": "A person typing at a desk with a laptop and notes",
+      "advanced-excel": "A phone and desk tools at a workstation",
+      "presentation-skills": "A presenter addressing a seated audience",
+      "professional-communication": "Colleagues placing their hands together during a meeting",
+      "cv-and-interview-preparation": "A person handing a document to someone across a table",
+      "digital-skills": "A laptop and headphones on a work surface",
+      "professional-certification-preparation": "A training session in a room with a presenter and screen"
+    }
+  },
+  "site": {
+    "home-intro": {
+      "src": "/images/topics/home-intro.webp",
+      "alt": "Students discussing work around a laptop"
+    },
+    "home-guidance": {
+      "src": "/images/topics/home-guidance.webp",
+      "alt": "A person working at a laptop in a bright workspace"
+    },
+    "about": {
+      "src": "/images/topics/about.webp",
+      "alt": "A group of learners collaborating around a shared desk"
+    }
+  },
+  "academicSubjects": {
+    "it-computer-science": {
+      "src": "/images/topics/directory-it-computer-science.webp",
+      "alt": "A developer working with several monitors"
+    },
+    "medical-health-sciences": {
+      "src": "/images/topics/directory-medical-health-sciences.webp",
+      "alt": "A hybrid operating theatre with clinical equipment"
+    },
+    "law-llb": {
+      "src": "/images/topics/directory-law-llb.webp",
+      "alt": "A set of scales and a gavel beside legal books"
+    },
+    "engineering": {
+      "src": "/images/topics/directory-engineering.webp",
+      "alt": "People reviewing technical work at a shared table"
+    },
+    "mathematics-statistics": {
+      "src": "/images/topics/directory-mathematics-statistics.webp",
+      "alt": "A student studying in front of a chalkboard filled with maths"
+    },
+    "physical-natural-sciences": {
+      "src": "/images/topics/directory-physical-natural-sciences.webp",
+      "alt": "A close-up of a plant branch with small buds"
+    },
+    "business-management": {
+      "src": "/images/topics/directory-business-management.webp",
+      "alt": "A group of colleagues talking together"
+    },
+    "accounting-finance-economics": {
+      "src": "/images/topics/directory-accounting-finance-economics.webp",
+      "alt": "Coins spilling from a glass savings jar"
+    },
+    "humanities-social-sciences": {
+      "src": "/images/topics/directory-humanities-social-sciences.webp",
+      "alt": "The Earth seen from orbit with city lights visible"
+    },
+    "english-literature-languages": {
+      "src": "/images/topics/directory-english-literature-languages.webp",
+      "alt": "An open book inside a room lined with shelves"
+    },
+    "arts-media-design": {
+      "src": "/images/topics/directory-arts-media-design.webp",
+      "alt": "A filmmaker operating a handheld camera rig"
+    },
+    "school-college-subjects": {
+      "src": "/images/topics/directory-school-college-subjects.webp",
+      "alt": "A teacher holding books beside a classroom chalkboard"
+    },
+    "test-exam-preparation": {
+      "src": "/images/topics/directory-test-exam-preparation.webp",
+      "alt": "A student reading at a classroom desk"
+    },
+    "research-methods-data-analysis": {
+      "src": "/images/topics/directory-research-methods-data-analysis.webp",
+      "alt": "An overhead view of colleagues reviewing material around a table"
+    },
+    "professional-career-skills": {
+      "src": "/images/topics/directory-professional-career-skills.webp",
+      "alt": "Colleagues putting their hands together above a worktable"
+    }
+  }
+}

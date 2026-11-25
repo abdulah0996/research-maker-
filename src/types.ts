@@ -1,0 +1,9 @@
+export type FAQ = { q: string; a: string }
+export type Item = { _id?: string; title: string; slug: string; summary: string; image?: string; alt?: string; faq?: FAQ[]; order?: number; published: boolean; metaTitle?: string; metaDescription?: string }
+export type Service = Item & { description: string; audience: string; process: string; areas: string[]; areaDetails?: string[]; guideExample?: string; guideBring?: string; guideOutcome?: string; guideBoundary?: string }
+export type Subject = Item & { topics: string[] }
+export type Topic = Item & { categoryId: string; description: string; cardImage?: string; cardAlt?: string; areas: string[]; skills: string[]; activities: string[]; audience: string; related?: string[]; learningNotes?: string[] }
+export type Post = Item & { body: string; author: string; category: string; tags: string[]; featured?: boolean; publishedAt?: string }
+export type Testimonial = { _id?: string; name: string; review: string; rating: number | null; service: string; approved: boolean; date: string }
+export type Settings = { name: string; email: string; whatsapp: string; message: string; heroTitle: string; heroText: string; heroComputingImage?: string; heroHealthImage?: string; heroLawImage?: string; heroResearchImage?: string; introText: string; footerText: string; seoTitle: string; seoDescription: string; socials: string[] }
+export type Content = { services: Service[]; tutoring: Subject[]; topics: Topic[]; posts: Post[]; testimonials: Testimonial[]; settings: Settings }

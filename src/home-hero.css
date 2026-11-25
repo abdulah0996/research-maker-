@@ -1,0 +1,42 @@
+.immersive-hero { display: grid; align-items: stretch; min-height: 85svh; }
+.immersive-hero::before { background: linear-gradient(90deg, var(--powder) 0%, #dceefbf5 30%, #dceefbde 48%, #dceefb55 68%, #dceefb00 92%); }
+.immersive-backdrop { position: absolute; inset: 0; z-index: -2; overflow: hidden; }
+.immersive-backdrop img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.035); transition: opacity .7s ease, transform 4s var(--ease); }
+.immersive-backdrop img[data-active="true"] { opacity: 1; transform: scale(1); }
+.immersive-layout { display: grid; grid-template-rows: 1fr auto; gap: 1.5rem; padding-block: clamp(3rem, 9vh, 7rem) 2.2rem; }
+.immersive-copy { align-self: center; max-width: 51rem; animation: immersive-enter .7s var(--ease) both; }
+.immersive-hero h1 { font-size: clamp(2.75rem, 6.6vw, 6.35rem); line-height: .99; }
+.immersive-mask { overflow: hidden; margin-top: .8rem; }
+.immersive-subject { color: #173553; font-weight: 700; font-size: clamp(1.3rem, 3.05vw, 2.8rem); line-height: 1.14; margin: 0; padding-bottom: .15em; animation: immersive-subject-in .44s var(--ease) both; }
+.immersive-summary { max-width: 35rem; margin-block: 1.2rem 1.45rem; }
+.immersive-copy .actions { animation: immersive-enter .64s .13s var(--ease) both; }
+.immersive-rail { animation: immersive-enter .55s .12s var(--ease) both; }
+.immersive-rail { display: flex; align-items: flex-start; gap: clamp(.35rem, 2vw, 1.5rem); width: fit-content; max-width: 100%; }
+.immersive-rail button { display: grid; justify-items: center; gap: .45rem; min-width: 48px; color: var(--navy); padding: .15rem .25rem; font-size: .825rem; font-weight: 650; line-height: 1.2; text-align: center; }
+.immersive-option-icon, .immersive-rail .immersive-play { display: grid; place-items: center; position: relative; width: 48px; height: 48px; border: 1px solid var(--control-border); border-radius: 50%; background: #f4faffdc; transition: background var(--motion), color var(--motion), border-color var(--motion); }
+.immersive-rail button:hover .immersive-option-icon, .immersive-rail .immersive-play:hover { background: var(--white); }
+.immersive-rail button[aria-pressed="true"] .immersive-option-icon { background: var(--navy); border-color: var(--navy); color: var(--white); }
+.immersive-progress { display: none; position: absolute; inset: 0; width: 100%; height: 100%; fill: none; stroke: var(--powder); stroke-width: 2; transform: rotate(-90deg); pointer-events: none; }
+.immersive-rail[data-rotating="true"] button[aria-pressed="true"] .immersive-progress { display: block; stroke-dasharray: 1; animation: immersive-progress 7.5s linear both; }
+.immersive-rail .immersive-play { margin-top: .15rem; }
+@supports (animation-timeline: view()) {
+  @media (min-width: 761px) and (prefers-reduced-motion: no-preference) {
+    .immersive-hero { view-timeline-name: --hero-exit; }
+    .immersive-backdrop { animation: immersive-exit linear both; animation-timeline: --hero-exit; animation-range: exit 0% exit 100%; }
+    .immersive-layout { animation: immersive-copy-exit linear both; animation-timeline: --hero-exit; animation-range: exit 0% exit 100%; }
+  }
+}
+@media (max-width: 760px) {
+  .immersive-hero { min-height: 81svh; }
+  .immersive-backdrop, .immersive-hero::before { bottom: auto; height: clamp(16rem, 62vw, 21rem); }
+  .immersive-hero::before { background: linear-gradient(180deg, #dceefb00 25%, #dceefb80 57%, var(--powder) 100%); }
+  .immersive-layout { padding-top: clamp(12.5rem, 49vw, 16rem); }
+  .immersive-rail { flex-wrap: wrap; }
+  .immersive-rail button { font-size: .75rem; }
+  .immersive-rail button > span:last-child { max-width: 4.6rem; }
+}
+@keyframes immersive-enter { from { opacity: .25; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@keyframes immersive-subject-in { from { transform: translateY(100%); } to { transform: none; } }
+@keyframes immersive-exit { from { scale: 1; } to { scale: 1.085; } }
+@keyframes immersive-copy-exit { to { translate: 0 -1rem; } }
+@keyframes immersive-progress { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
